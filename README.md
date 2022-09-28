@@ -7,5 +7,7 @@ A bot that has features that should be present on a discord server. The bot was 
 # What does the bot have
 
 Plays Music (Youtube)
+
 Send GIFs
+
 Moderation
